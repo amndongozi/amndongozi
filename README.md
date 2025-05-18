@@ -1,5 +1,6 @@
 ![From Lab to Data Science](images/lab-to-data.png)
 
+
 # 👋 Hi there! I'm Amelie Ndongozi
 
 🌱 **From Lab Coats to Code**  
