@@ -1,5 +1,3 @@
-![From Lab to Data Science](lab_to_data.png)
-
 
 # 👋 Hi there! I'm Amelie Ndongozi
 
