@@ -14,9 +14,9 @@ I bring 4 years of experience in food industry research and quality assurance. D
 - **Languages**: Python, SQL, R  
 - **Platforms**: Databricks, GitHub, Docker  
 - **Libraries**: Pandas, Scikit-learn, TensorFlow, PyTorch  
-- **Data Engineering**: Apache Spark, Airflow, dbt, MySQL  
+- **Data Engineering**: Apache Spark, Airflow, PostegreSQL
 - **Analytics/BI**: Power BI, Tableau  
-- **Cloud**: AWS (certified), GCP  
+- **Cloud**: AWS (Cloud practitioner certified), GCP  
 
 📚 Always learning. Always building. One project at a time.
 
