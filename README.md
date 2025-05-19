@@ -20,4 +20,4 @@ I bring 4 years of experience in food industry research and quality assurance. D
 
 📚 Always learning. Always building. One project at a time.
 
-🔗 Check out my repositories to see how I bring data to life.
+🔗 Check out my repositories!
