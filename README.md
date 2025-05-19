@@ -7,7 +7,7 @@ With a Master’s in Business Analytics from *Goizueta Business School at Emory 
 💼 **Professional Experience**  
 I bring 4 years of experience in food industry research and quality assurance. During my master’s program, I applied these skills to real-world data projects — ranging from investment forecasting and building a Molson Coors recommender system to customer churn analysis. I've worked with messy datasets and stakeholders to turn complexity into clarity.
 
-💡 I’m especially passionate about the intersection of **data engineering**, **big data analytics**, **machine learning**, and **business intelligence**. My work focuses on turning raw data into powerful, actionable insights.
+💡 I’m especially passionate about the intersection of **data engineering**, **big data analytics**, and **machine learning** My work focuses on turning raw data into powerful, actionable insights.
 
 🛠️ **Tools & Skills**:
 
