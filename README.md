@@ -1,14 +1,11 @@
 
-# 👋 Hi there! I'm Amelie Ndongozi
+# 👋 Hi there! I'm Amelie Ndongozi   
 
-🌱 **From Lab Coats to Code**  
-With a Master’s in Business Analytics from *Goizueta Business School at Emory University* and a Nutrition Sciences degree from *Colorado State University*, I’ve transitioned from the lab to data science — and I couldn’t be more excited. Now, I get to analyze two of the best things in the world: **food and data**.
-
-💼 **Professional Experience**  
-I bring 4 years of experience in food industry research and quality assurance. During my master’s program, I applied these skills to real-world data projects — ranging from investment forecasting and building a Molson Coors recommender system to customer churn analysis. I've worked with messy datasets and stakeholders to turn complexity into clarity.
-
-💡 I’m especially passionate about the intersection of **data engineering**, **big data analytics**, and **machine learning**. My work focuses on turning raw data into powerful, actionable insights.
-
+I am a **Data Analyst with a business intelligence focus on retail and manufacturing**, passionate about solving impactful problems that improve customer outcomes and operational efficiency. 
+With a Master’s in Business Analytics from *Goizueta Business School at Emory University* and a Nutrition Sciences degree from *Colorado State University*, my background in food science complements my analytics work by bringing a detail-oriented, quality-first mindset. 
+I have experience designing Power BI dashboards, automating SQL pipelines, and developing predictive models across industries including food, real estate, and education.
+My skills span **predictive analysis, cloud computing, and applied AI**, where I’ve built AI applications to enhance business intelligence and decision-making.  
+  
 🛠️ **Tools & Skills**:
 
 - **Languages**: Python, SQL, R  
